@@ -5,10 +5,10 @@
 **Author:** Anya (Graduate in Business Analytics)
 
 ## 📁 Repository structure
-- `Raw.xlsx` — original synthetic dataset  
-- `Cleaned.xlsx` — cleaned data (no duplicates, date formatted)  
-- `Dashboard.xlsx` — Excel dashboard (interactive, contains pivot tables)  
-- `Report.pdf` — short business report (findings + recommendations)
+- `Raw.xlsx` - original synthetic dataset  
+- `Cleaned.xlsx` - cleaned data (no duplicates, date formatted)  
+- `Dashboard.xlsx` - Excel dashboard (interactive, contains pivot tables)  
+- `Report.pdf` - short business report (findings + recommendations)
 
 ## 📊 What was done
 1. Data profiling: counted rows, unique customers, date range, and missing values.  
